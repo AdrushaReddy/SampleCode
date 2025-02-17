@@ -1,0 +1,1 @@
+I initialised a Git repository. I made two meaningful commits. I created and managed at least one branch named feature/student-details. I ensured that specified files were included in the repository. I included a commit with a message. I deployed an html file to GitHub pages.
